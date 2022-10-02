@@ -46,7 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/DK-Khambhadiya"><img src="https://avatars.githubusercontent.com/u/72206942?v=4" width="100px;" alt=""/><br /><sub><b>EFFLUX</b></sub></a><br /><a href="https://github.com/DK-Khambhadiya/AI-Chat-Bot/commits?author=DK-Khambhadiya" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DK-Khambhadiya"><img src="https://avatars.githubusercontent.com/u/72206942?v=4" width="100px;" alt=""/><br /><sub><b>DK-Khambhadiya</b></sub></a><br /><a href="https://github.com/DK-Khambhadiya/AI-Chat-Bot/commits?author=DK-Khambhadiya" title="Code">💻</a></td>
   </tr>
 </table>
 
