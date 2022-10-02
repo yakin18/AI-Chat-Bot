@@ -19,7 +19,24 @@ if __name__ == "__main__":
     cprint("#" * 50, "magenta")
     cprint((f"A Chatot ").center(50), "yellow")
     cprint("#" * 50, "magenta")
-
+def Google():
+    speak('What should I search in Google?')
+    x = input('Type here')
+    speak('searching for'+x+'on Google')
+    search_Term = x.lower()
+    speak('Searching')
+    speak('Here we go to Google')
+    wb.open('http://www.google.com/search?q='+search_Term)
+def CPU():
+    usage = str(psutil.cpu_percent())
+    speak('Cpu is at')
+    speak(usage)
+    battery = psutil.sensors_battery()
+    speak('Battery is at')
+    speak(battery.percent) 
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
     print('You can exit by type exit\n')
     name=input("Enter your name:")
     cprint((f"Start Chatting").center(20), "yellow")
